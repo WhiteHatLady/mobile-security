@@ -12,10 +12,10 @@
 ODP.  AOSP (Android Open Source Project)
 </details>
 
-2. Partycja recovery jest tylko po to, że jak coś się nam rozwali na telefonie, to żebyśmy  go odtworzyć i po nic więcej nie służy ta partycja?  Prawada czy Fałsz?. Uzasadnij.
+2. Partycja recovery służy tylko do przywrócenia czegoś?  Prawada czy Fałsz?. Uzasadnij.
 
 <details><summary>Zobacz odpowiedź</summary>
-ODP.  Fałsz. Partycja jest alternaty gdy system się wysypie, a zarazem że partycja ta  jest również zapasową partycją rozruchowa.
+ODP.  Fałsz. Partycja jest alternatywą gdy system się wysypie, a zarazem że partycja ta  jest również zapasową partycją rozruchowa.
 </details>
 
 3. Po co nam pliki z rozszerzeniem .dex?  Gdzie są wykorzystywane? Czy dotyczą Androida czy IOS? 
